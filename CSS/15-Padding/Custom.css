@@ -1,6 +1,9 @@
 body{
     background-color: #e8e8e8;
     color:#2d49a6;
+ 
+
+    
     
 }
 header{
@@ -11,9 +14,28 @@ header{
     padding-top: 40px;
     padding-right: 50px;
     padding-bottom: 60px;
-    padding-left: 70px;
+    /* padding-left: 70px; */
 }
 .Praia{
     width:250px;
     height:200px;
+    padding-left: 70px;
+    
+}
+nav{
+    background-color: #ffd700;
+    padding: 15px 16Px 14px 18px;
+
+
+}
+article{
+    background-color: #008000;
+    color: #fff;
+padding: 35px 18px;
+}
+footer{
+    background-color: #850000;
+    padding: 25px;
+    color: #fff;
+    text-align: center;
 }
