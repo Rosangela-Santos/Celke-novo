@@ -1,0 +1,45 @@
+body{
+    background-color: #e8e8e8;
+    color:#2d49a6;
+    
+}
+
+/*seletor tipo-*/
+
+h1{
+    color: green;
+}
+
+    P{
+        color: green;
+    }
+    /*seletor desecendente */
+    p span{
+        color: red;
+    }
+    /* seletor pseudo-classe*/
+    a:hover{
+        color: gold;
+    }
+    /*Seletor ID indetificação única*/
+    #menu{
+        color: blue;
+    }
+            #conteudo{
+            color: indigo;
+        }
+                /*Seletor tipo class*/
+            .Conteudo_Destaque{
+                color: orange;
+            }
+            
+            .mais_acessado{
+               font-size: 23px;
+                
+
+            }
+            
+
+
+
+   
